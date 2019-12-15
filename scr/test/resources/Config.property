@@ -1,0 +1,3 @@
+browser=chrome
+chromeexepath=D:\\Testing\\Testing Files\\chromedriver_win32\\chromedriver.exe
+ieexepath=D:\\Testing\\Testing Files\\IEDriverServer_x64_3.14.0\\IEDriverServer.exe
